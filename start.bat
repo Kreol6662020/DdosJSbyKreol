@@ -1,0 +1,2 @@
+node ddos.js
+pause
